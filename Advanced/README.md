@@ -1,3 +1,3 @@
 ```diff
-!                                                                 Python Advanced
+!                                                                 Python Advanced                                                                                        
 ```
