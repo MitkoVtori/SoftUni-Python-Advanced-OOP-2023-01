@@ -2,7 +2,7 @@
 | ---------------- |
 | Stacks, Queues, Tuples and Sets |
 | ------------------------------- |
-| Lists as Stacks and Queues |
+| <a href="Stacks, Queues, Tuples and Sets/Lists as Stacks and Queues">Lists as Stacks and Queues</a> |
 | Exercise: Lists as Stacks and Queues |
 | Tuples and Sets |
 | Exercise: Tuples and Sets |
