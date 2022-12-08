@@ -3,7 +3,7 @@
 | Python Advanced | Python OOP |
 | --------------- | ---------- |
 | <a href="Advanced">Advanced</a> | <a href="OOP">Object Oriented Programming</a> |
-| Stacks, Queues, Tuples and Sets | First Steps in OOP |
+| <a href="1.Stacks, Queues, Tuples and Sets">Stacks, Queues, Tuples and Sets</a> | First Steps in OOP |
 | Multidimensional Lists | Classes and Objects |
 | Functions Advanced | Inheritance |
 | Error Handling | Encapsulation |
