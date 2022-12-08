@@ -1,6 +1,6 @@
 | Python Advanced  | 
 | ---------------- |
-| Stacks, Queues, Tuples and Sets |
+| <a href="1.Stacks, Queues, Tuples and Sets">Stacks, Queues, Tuples and Sets</a> |
 | ------------------------------- |
 | <a href="1.Stacks, Queues, Tuples and Sets/Lists as Stacks and Queues - Lab">Lists as Stacks and Queues</a> |
 | Exercise: Lists as Stacks and Queues |
