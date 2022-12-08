@@ -1,8 +1,8 @@
 | Python Advanced  | 
 | ---------------- |
-| Stacks, Queues, Tuples and Sets |
+| <a href="1.Stacks, Queues, Tuples and Sets">Stacks, Queues, Tuples and Sets</a> |
 | ------------------------------- |
-| Lists as Stacks and Queues |
+| <a href="1.Stacks, Queues, Tuples and Sets/Lists as Stacks and Queues - Lab">Lists as Stacks and Queues</a> |
 | Exercise: Lists as Stacks and Queues |
 | Tuples and Sets |
 | Exercise: Tuples and Sets |
