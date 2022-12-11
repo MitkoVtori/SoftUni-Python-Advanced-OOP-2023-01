@@ -1,4 +1,4 @@
-symbols = tuple(sorted([char for char in input()])) # makes a tuple of every single character
+symbols = tuple(sorted([char for char in input()])) # makes a tuple containing of every single character
 
 counted_characters = [] # checks if a character is already counted
 
