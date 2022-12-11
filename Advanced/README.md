@@ -5,7 +5,7 @@
 | <a href="1.Stacks, Queues, Tuples and Sets/Lists as Stacks and Queues - Lab">Lists as Stacks and Queues</a> |
 | <a href="1.Stacks, Queues, Tuples and Sets/Lists as Stacks and Queues - Exercise">Exercise: Lists as Stacks and Queues</a> |
 | <a href="1.Stacks, Queues, Tuples and Sets/Tuples and Sets - Lab">Tuples and Sets</a> |
-| Exercise: Tuples and Sets |
+| <a href="1.Stacks, Queues, Tuples and Sets/Tuples and Sets - Exercise">Exercise: Tuples and Sets</a> |
 | Exercise: Stacks, Queues, Tuples and Sets |
 | ---------------------- |
 | Multidimensional Lists |
