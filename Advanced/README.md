@@ -8,9 +8,9 @@
 | <a href="1.Stacks, Queues, Tuples and Sets/Tuples and Sets - Exercise">Exercise: Tuples and Sets</a> |
 | <a href="1.Stacks, Queues, Tuples and Sets/Stacks, Queues, Tuples and Sets - Exercise">Exercise: Stacks, Queues, Tuples and Sets</a> |
 | ---------------------- |
-| Multidimensional Lists |
+| <a href="2.Multidimensional Lists">Multidimensional Lists (AKA matrix)</a> |
 | ---------------------- |
-| Multidimensional Lists |
+| <a href="2.Multidimensional Lists/Multidimensional Lists - Lab">Multidimensional Lists</a> |
 | 1.Exercise: Multidimensional Lists |
 | 2.Exercise: Multidimensional Lists |
 | ------------------ |
