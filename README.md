@@ -4,7 +4,7 @@
 | --------------- | ---------- |
 | <a href="Advanced">Advanced</a> | <a href="OOP">Object Oriented Programming</a> |
 | <a href="Advanced/1.Stacks, Queues, Tuples and Sets">Stacks, Queues, Tuples and Sets</a> | First Steps in OOP |
-| <a href="Advanced/2.Multidimensional Lists/Multidimensional Lists - Lab">Multidimensional Lists (AKA matrix)</a> | Classes and Objects |
+| <a href="Advanced/2.Multidimensional Lists">Multidimensional Lists (AKA matrix)</a> | Classes and Objects |
 | Functions Advanced | Inheritance |
 | Error Handling | Encapsulation |
 | File Handling  | Static and Class Methods |
