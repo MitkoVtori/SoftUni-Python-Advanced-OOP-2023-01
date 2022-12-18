@@ -12,7 +12,7 @@
 | ---------------------- |
 | <a href="2.Multidimensional Lists/Multidimensional Lists - Lab">Multidimensional Lists</a> |
 | <a href="2.Multidimensional Lists/1.Multidimensional Lists - Exercise">1.Exercise: Multidimensional Lists</a> |
-| 2.Exercise: Multidimensional Lists |
+| <a href="2.Multidimensional Lists/2.Multidimensional Lists - Exercise">2.Exercise: Multidimensional Lists</a> |
 | ------------------ |
 | Functions Advanced |
 | ------------------ |
