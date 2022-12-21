@@ -14,9 +14,9 @@
 | <a href="2.Multidimensional Lists/1.Multidimensional Lists - Exercise">1.Exercise: Multidimensional Lists</a> |
 | <a href="2.Multidimensional Lists/2.Multidimensional Lists - Exercise">2.Exercise: Multidimensional Lists</a> |
 | ------------------ |
-| Functions Advanced |
+| <a href="3.Functions Advanced">Functions Advanced</a> |
 | ------------------ |
-| Functions Advanced |
+| <a href="3.Functions Advanced/Functions Advanced - Lab">Functions Advanced</a> |
 | Exercise: Functions Advanced |
 | -------- |
 | Handling |
