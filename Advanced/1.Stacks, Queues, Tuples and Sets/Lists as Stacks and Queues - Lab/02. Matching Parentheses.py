@@ -25,6 +25,6 @@ for index, char in enumerate(expression):
         parentheses.push(index)
 
     elif char == ")":
-        start_index = parentheses.pop()
-        end_index = index
-        print(expression[start_index:end_index+1])
+        opening_bracket = parentheses.pop()
+        closing_bracket = index
+        print(expression[opening_bracket:closing_bracket+1])

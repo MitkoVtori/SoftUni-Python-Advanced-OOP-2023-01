@@ -1,19 +1,17 @@
 from collections import deque
 
-market = deque()
+supermarket = deque()
 
-customer = input()
-while customer != "End":
-    paid = False
+command = input()
+while command != "End":
 
-    if customer == "Paid":
-        paid = True
-        for name in range(len(market)):
-            print(market.popleft())
+    if command == "Paid":
+        queue_length = len(supermarket)
+        [print(supermarket.popleft()) for _ in range(queue_length)]
 
-    if not paid:
-        market.append(customer)
+    else:
+        supermarket.append(command)
 
-    customer = input()
+    command = input()
 
-print(f"{len(market)} people remaining.")
+print(f"{len(supermarket)} people remaining.")

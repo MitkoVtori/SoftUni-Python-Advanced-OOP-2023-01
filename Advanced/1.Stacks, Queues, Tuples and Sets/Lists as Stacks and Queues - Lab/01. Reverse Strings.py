@@ -17,14 +17,8 @@ class Stack:
 
 
 reverser = Stack()
+
 string = input()
 
-for char in string:
-    reverser.push(char)
-
-reversed_string = ''
-
-while reverser.count():
-    reversed_string += reverser.pop()
-
-print(reversed_string)
+[reverser.push(char) for char in string]
+[print(reverser.pop(), end="") for _ in range(len(string))]
