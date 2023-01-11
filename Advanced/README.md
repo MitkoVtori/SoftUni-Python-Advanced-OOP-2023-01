@@ -17,7 +17,7 @@
 | <a href="3.Functions Advanced">Functions Advanced</a> |
 | ------------------ |
 | <a href="3.Functions Advanced/Functions Advanced - Lab">Functions Advanced</a> |
-| Exercise: Functions Advanced |
+| <a href="3.Functions Advanced/Functions Advanced - Exercise">Exercise: Functions Advanced</a> |
 | -------- |
 | Handling |
 | -------- |
