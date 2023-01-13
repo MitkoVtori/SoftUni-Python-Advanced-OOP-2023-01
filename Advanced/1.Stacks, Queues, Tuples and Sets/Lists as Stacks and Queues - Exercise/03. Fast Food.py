@@ -1,30 +1,19 @@
 from collections import deque
 
-quantity_food = int(input())
-orders_food_quantity = deque([int(num) for num in input().split()])
+food_quantity = int(input())
+orders = deque(map(int, input().split()))
+too_many_orders = False
 
-print(max(orders_food_quantity))
+print(max(orders))
 
-orders_complete = True
+for order in range(len(orders)):
+    if food_quantity - orders[0] >= 0:
+        food_quantity -= orders.popleft()
 
-index = -1
-
-while orders_food_quantity:
-
-    index += 1
-    order = orders_food_quantity[index]
-
-    if order <= quantity_food:
-        index -= 1
-        quantity_food -= order
-        orders_food_quantity.popleft()
-
-    elif order > quantity_food:
-        orders_complete = False
+    else:
+        too_many_orders = True
+        print("Orders left:", ' '.join([str(order) for order in orders]))
         break
 
-if orders_complete:
-    print("Orders complete")
-elif not orders_complete:
-    uncompleted_orders = [str(num) for num in orders_food_quantity]
-    print(f"Orders left: {' '.join(uncompleted_orders)}")
+if not too_many_orders:
+    print('Orders complete')

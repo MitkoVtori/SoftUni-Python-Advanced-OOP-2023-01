@@ -16,9 +16,6 @@ class Stack:
         return len(self.stack)
 
 
-opening_brackets = ['{', '(', '[']
-closing_brackets = ['}', ')', ']']
-
 pairs = {
     '{': '}',
     '(': ')',
@@ -32,10 +29,10 @@ balanced = True
 
 for index, bracket in enumerate(parentheses):
 
-    if bracket in opening_brackets:
+    if bracket in pairs.keys():
         bracket_integers.push(index)
 
-    elif bracket in closing_brackets:
+    elif bracket in pairs.values():
         if bracket_integers.count():
 
             last_index = bracket_integers.peek()

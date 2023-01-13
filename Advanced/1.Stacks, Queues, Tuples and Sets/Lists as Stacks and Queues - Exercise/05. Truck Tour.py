@@ -9,7 +9,7 @@ for pump in range(number_petrol_pumps):
 for attempt in range(number_petrol_pumps):
 
     trunk = 0
-    failed_attempt= False
+    failed_attempt = False
 
     for petrol, distance in pumps:
         trunk = trunk + petrol - distance
