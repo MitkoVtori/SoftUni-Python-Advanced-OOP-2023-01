@@ -1,4 +1,7 @@
-# Python Advanced 2023
+# Python Advanced & OOP 2023
+Course - [Softuni Python Advanced & OOP 2023](https://softuni.bg/trainings/3963/python-advanced-january-2023)
+<br>
+Course lecturer - **[Mario Zahariev](https://github.com/zahariev-webbersof)**
 
 | Python Advanced | Python OOP |
 | --------------- | ---------- |
