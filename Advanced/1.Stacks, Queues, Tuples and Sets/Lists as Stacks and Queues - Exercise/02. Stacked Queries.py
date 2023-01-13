@@ -16,30 +16,31 @@ class Stack:
         return len(self.stack)
 
 
-numbers_stack = Stack()
+stack = Stack()
+numbers_list = []
 
-lines_of_input = int(input())
+lines = int(input())
 
-min_max_num = []
+for queries in range(lines):
+    query = input()
 
-for num in range(lines_of_input):
-    number = input().split()
+    if query.startswith("1"):
+        num = int(query.split()[1])
+        stack.push(num)
+        numbers_list.append(num)
 
-    if number[0] == '1':
-        numbers_stack.push(number[1])
-        min_max_num.append(int(number[1]))
+    elif query == "2":
+        if stack.count():
+            stack.pop()
+            numbers_list.pop()
 
-    elif numbers_stack.count():
-        if number[0] == '2':
-            numbers_stack.pop()
-            min_max_num.pop()
+    elif query == "3":
+        if stack.count():
+            print(max(numbers_list))
 
-        elif number[0] == '3':
-            print(max(min_max_num))
+    elif query == "4":
+        if stack.count():
+            print(min(numbers_list))
 
-        elif number[0] == '4':
-            print(min(min_max_num))
 
-numbers = [str(num) for num in min_max_num[::-1]]
-
-print(', '.join(numbers))
+print(", ".join([str(stack.pop()) for _ in range(stack.count())]))

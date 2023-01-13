@@ -18,10 +18,5 @@ class Stack:
 
 reverse_integers = Stack()
 
-integers = [int(num) for num in input().split()]
-
-for number in integers:
-    reverse_integers.push(number)
-
-while reverse_integers.count():
-    print(reverse_integers.pop(), end=' ')
+[reverse_integers.push(int(num)) for num in input().split()]
+[print(reverse_integers.pop(), end=" ") for _ in range(reverse_integers.count())]
