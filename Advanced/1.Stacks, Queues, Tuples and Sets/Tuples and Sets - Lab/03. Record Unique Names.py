@@ -2,9 +2,15 @@ names = int(input())
 
 unique_names = set()
 
-for person in range(names):
+for curr_name in range(names):
     name = input()
     unique_names.add(name)
 
-for name in unique_names:
-    print(name)
+print('\n'.join(unique_names))
+
+
+# names = set([input() for name in range(int(input()))])
+# print('\n'.join(names))
+
+
+# print('\n'.join(set([input() for name in range(int(input()))])))

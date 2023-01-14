@@ -1,17 +1,18 @@
-parking_lot = set()
+directions = int(input())
 
-commands = int(input())
+cars = set()
 
-for command in range(commands):
-    in_out, car_number = input().split(', ')
+for car_direction in range(directions):
+    direction, car_number = input().split(', ')
 
-    if in_out == 'OUT' and car_number in parking_lot:
-        parking_lot.remove(car_number)
+    if direction == "IN":
+        cars.add(car_number)
 
-    elif in_out == 'IN':
-        parking_lot.add(car_number)
+    else:
+        cars.remove(car_number)
 
-if parking_lot:
-    [print(car) for car in parking_lot]
+if cars:
+    print('\n'.join(cars))
+
 else:
     print("Parking Lot is Empty")
