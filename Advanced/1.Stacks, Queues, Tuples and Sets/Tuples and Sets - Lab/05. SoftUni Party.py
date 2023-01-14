@@ -1,36 +1,77 @@
-invited_guests = int(input())
+import re
 
-regular_guests = set()
-vip_guests = set()
+valid_reservation_pattern = r'^\S{8}$'
 
-for invite in range(invited_guests):
-    guest_number = input()
+reservations = int(input())
 
-    if len(guest_number) == 8:
+regular, vip = set(), set()
 
-        if guest_number[0].isdigit():
-            vip_guests.add(guest_number)
+for curr_reservation in range(reservations):
+    reservation = input()
 
-        elif not guest_number[0].isdigit():
-            regular_guests.add(guest_number)
+    valid_reservation = re.findall(valid_reservation_pattern, reservation)
 
-guest = input()
-while guest != "END":
+    if valid_reservation:
 
-    if guest in regular_guests:
-        regular_guests.remove(guest)
+        if reservation[0].isdigit():
+            vip.add(reservation)
 
-    if guest in vip_guests:
-        vip_guests.remove(guest)
+        else:
+            regular.add(reservation)
 
-    guest = input()
+reservation = input()
+while reservation != "END":
 
-print(len(vip_guests) + len(regular_guests))
+    if reservation in regular:
+        regular.remove(reservation)
 
-if vip_guests:
-    vip_guests_did_not_come = sorted(list(vip_guests))
-    [print(guest) for guest in vip_guests_did_not_come]
+    elif reservation in vip:
+        vip.remove(reservation)
 
-if regular_guests:
-    regular_guests_did_not_come = sorted(list(regular_guests))
-    [print(guest) for guest in regular_guests_did_not_come]
+    reservation = input()
+
+print(len(regular) + len(vip))
+
+if vip:
+    print('\n'.join(sorted(vip)))
+
+if regular:
+    print('\n'.join(sorted(regular)))
+
+# ---- OLD ----
+# invited_guests = int(input())
+#
+# regular_guests = set()
+# vip_guests = set()
+#
+# for invite in range(invited_guests):
+#     guest_number = input()
+#
+#     if len(guest_number) == 8:
+#
+#         if guest_number[0].isdigit():
+#             vip_guests.add(guest_number)
+#
+#         elif not guest_number[0].isdigit():
+#             regular_guests.add(guest_number)
+#
+# guest = input()
+# while guest != "END":
+#
+#     if guest in regular_guests:
+#         regular_guests.remove(guest)
+#
+#     if guest in vip_guests:
+#         vip_guests.remove(guest)
+#
+#     guest = input()
+#
+# print(len(vip_guests) + len(regular_guests))
+#
+# if vip_guests:
+#     vip_guests_did_not_come = sorted(list(vip_guests))
+#     [print(guest) for guest in vip_guests_did_not_come]
+#
+# if regular_guests:
+#     regular_guests_did_not_come = sorted(list(regular_guests))
+#     [print(guest) for guest in regular_guests_did_not_come]
