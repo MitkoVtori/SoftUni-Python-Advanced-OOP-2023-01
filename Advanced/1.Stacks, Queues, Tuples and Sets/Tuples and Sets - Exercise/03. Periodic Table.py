@@ -1,9 +1,9 @@
-lines_with_elements = int(input())
+lines = int(input())
 
-unique_elements = set()
+periodic_table = set()
 
-for elements in range(lines_with_elements):
+for element in range(lines):
     chemical_elements = input().split()
-    [unique_elements.add(elem) for elem in chemical_elements]
+    [periodic_table.add(elem) for elem in chemical_elements]
 
-print('\n'.join([element for element in unique_elements]))
+print('\n'.join(periodic_table))

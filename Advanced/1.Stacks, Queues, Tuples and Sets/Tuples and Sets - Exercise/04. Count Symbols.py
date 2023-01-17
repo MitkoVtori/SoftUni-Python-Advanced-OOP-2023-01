@@ -1,9 +1,9 @@
-symbols = tuple(sorted([char for char in input()])) # makes a tuple containing of every single character
+lines = int(input())
 
-counted_characters = [] # checks if a character is already counted
+periodic_table = set()
 
-for symbol in symbols:
+for element in range(lines):
+    chemical_elements = input().split()
+    [periodic_table.add(elem) for elem in chemical_elements]
 
-    if symbol not in counted_characters:
-        print(f"{symbol}: {symbols.count(symbol)} time/s")
-        counted_characters.append(symbol)
+print('\n'.join(periodic_table))
