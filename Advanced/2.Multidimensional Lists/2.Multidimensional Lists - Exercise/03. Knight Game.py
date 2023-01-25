@@ -1,13 +1,13 @@
 rows = int(input())
 
-pos_knights,  matrix, total_knights = [], [], [0]
+pos_knights, matrix, total_knights = [], [], [0]
 
 for row in range(rows):
 
     matrix.append(list(input()))
 
     for col in range(len(matrix[0])):
-    
+
         if matrix[row][col] == "K":
             pos_knights.append([row, col])
 
@@ -28,7 +28,6 @@ movement = {
 
 
 def check_knights():
-
     knights = {}
 
     for row, col in pos_knights:
