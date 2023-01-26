@@ -19,10 +19,13 @@
 | <a href="3.Functions Advanced/Functions Advanced - Lab">Functions Advanced</a> |
 | <a href="3.Functions Advanced/Functions Advanced - Exercise">Exercise: Functions Advanced</a> |
 | -------- |
-| Handling |
-| -------- |
-| Error Handling |
-| Exercise: Error Handling |
+| <a href="4.Error Handling">Error Handling</a> |
+| -------------- |
+| <a href="4.Error Handling/Error Handling - Lab">Error Handling</a> |
+| <a href="4.Error Handling/Error Handling - Exercise">Exercise: Error Handling</a> |
+| ------------- |
+| File Handling |
+| ------------- |
 | File Handling |
 | Exercise: File Handling |
 | -------- |
