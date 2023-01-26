@@ -9,7 +9,7 @@ Course lecturer - **[Mario Zahariev](https://github.com/zahariev-webbersof)**
 | <a href="Advanced/1.Stacks, Queues, Tuples and Sets">Stacks, Queues, Tuples and Sets</a> | First Steps in OOP |
 | <a href="Advanced/2.Multidimensional Lists">Multidimensional Lists (AKA matrix)</a> | Classes and Objects |
 | <a href="Advanced/3.Functions Advanced">Functions Advanced</a> | Inheritance |
-| Error Handling | Encapsulation |
+| <a href="Advanced/4.Error Handling">Error Handling</a> | Encapsulation |
 | File Handling  | Static and Class Methods |
 | Workshop | Polymorphism and Abstraction |
 | Modules | SOLID |
