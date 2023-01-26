@@ -24,9 +24,9 @@
 | <a href="4.Error Handling/Error Handling - Lab">Error Handling</a> |
 | <a href="4.Error Handling/Error Handling - Exercise">Exercise: Error Handling</a> |
 | ------------- |
-| File Handling |
+| <a href="5.File Handling">File Handling</a> |
 | ------------- |
-| File Handling |
+| <a href="5.File Handling/File Handling - Lab">File Handling</a> |
 | Exercise: File Handling |
 | -------- |
 | Workshop |

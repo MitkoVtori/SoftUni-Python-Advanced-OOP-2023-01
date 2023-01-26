@@ -12,7 +12,7 @@ Course Exercise Lecturer - **[Diyan Kalaydzhiev](https://github.com/DiyanKalaydz
 | <a href="Advanced/2.Multidimensional Lists">Multidimensional Lists (AKA matrix)</a> | Classes and Objects |
 | <a href="Advanced/3.Functions Advanced">Functions Advanced</a> | Inheritance |
 | <a href="Advanced/4.Error Handling">Error Handling</a> | Encapsulation |
-| File Handling  | Static and Class Methods |
+| <a href="Advanced/5.File Handling">File Handling</a>  | Static and Class Methods |
 | Workshop | Polymorphism and Abstraction |
 | Modules | SOLID |
 | Exam Preparation | Iterators and Generators |
