@@ -1,0 +1,6 @@
+# This file does not exist, it is created by the program.
+
+
+is - 3
+quick - 2
+fault - 1
