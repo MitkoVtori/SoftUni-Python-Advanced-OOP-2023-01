@@ -1,12 +1,11 @@
 def even_odd(*args):
-    command = args[-1]
-    numbers = args[:-1]
+    args, even_or_odd = args[:-1], args[-1]
 
-    if command == 'even':
-        return [num for num in numbers if num % 2 == 0]
+    if even_or_odd == "even":
+        return [num for num in args if num % 2 == 0]
 
-    elif command == 'odd':
-        return [num for num in numbers if num % 2 != 0]
+    elif even_or_odd == "odd":
+        return [num for num in args if num % 2 != 0]
 
 
 ''' TESTS '''

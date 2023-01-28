@@ -7,6 +7,11 @@ def func_executor(*args):
     return '\n'.join(function_results)
 
 
+""" ON ONE LINE!!! """
+# def func_executor(*args):return '\n'.join([f'{f.__name__} - {f(*fa)}' for f,fa in args])
+
+
+
 ''' TESTS '''
 # def sum_numbers(num1, num2):
 #     return num1 + num2

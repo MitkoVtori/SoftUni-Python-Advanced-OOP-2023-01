@@ -1,27 +1,16 @@
 def negative_vs_positive(*args):
-    global sum_negative
-    global sum_positive
+    sum_negatives = sum([num for num in args if num < 0])
+    sum_positives = sum([num for num in args if num >= 0])
 
-    for num in args:
-        if num < 0:
-            sum_negative += num
+    print(sum_negatives)
+    print(sum_positives)
 
-        elif num > 0:
-            sum_positive += num
+    if abs(sum_negatives) > sum_positives:
+        print("The negatives are stronger than the positives")
+
+    elif sum_positives > abs(sum_negatives):
+        print("The positives are stronger than the negatives")
 
 
-sum_negative = 0
-sum_positive = 0
-
-numbers = list(map(int, input().split()))
-
+numbers = [int(num) for num in input().split()]
 negative_vs_positive(*numbers)
-
-print(sum_negative)
-print(sum_positive)
-
-if abs(sum_negative) > sum_positive:
-    print("The negatives are stronger than the positives")
-
-elif sum_positive > abs(sum_negative):
-    print("The positives are stronger than the negatives")
