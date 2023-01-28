@@ -1,11 +1,10 @@
 def concatenate(*args, **kwargs):
-    string = ''.join(args)
+    message = ''.join(args)
 
-    for key in kwargs.keys():
-        if key in string:
-            string = string.replace(key, kwargs[key])
+    for old_str, new_str in kwargs.items():
+        message = message.replace(old_str, new_str)
 
-    return string
+    return message
 
 
 ''' TESTS '''
