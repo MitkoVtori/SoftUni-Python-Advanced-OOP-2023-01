@@ -13,7 +13,7 @@ Course Exercise Lecturer - **[Diyan Kalaydzhiev](https://github.com/DiyanKalaydz
 | <a href="Advanced/3.Functions Advanced">Functions Advanced</a> | Inheritance |
 | <a href="Advanced/4.Error Handling">Error Handling</a> | Encapsulation |
 | <a href="Advanced/5.File Handling">File Handling</a>  | Static and Class Methods |
-| Workshop | Polymorphism and Abstraction |
+| <a href="Advanced/6.Workshop">Workshop</a> | Polymorphism and Abstraction |
 | Modules | SOLID |
 | Exam Preparation | Iterators and Generators |
 | Regular Exam | Decorators |
