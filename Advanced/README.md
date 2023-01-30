@@ -29,9 +29,9 @@
 | <a href="5.File Handling/File Handling - Lab">File Handling</a> |
 | <a href="5.File Handling/File Handling - Exercise">Exercise: File Handling</a> |
 | -------- |
-| Workshop |
+| <a href="6.Workshop">Workshop</a> |
 | -------- |
-| Workshop |
+| <a href="6.Workshop/Workshop - Lab">Workshop</a> |
 | Exercise: Workshop |
 | ------- |
 | Modules |
