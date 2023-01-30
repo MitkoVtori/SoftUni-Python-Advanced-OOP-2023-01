@@ -129,6 +129,11 @@ class ConnectFourGame:
         self.players.append(player)
         return [self.check_win(player), player]
 
+    def end_game_draw(self):
+        if 0 not in self.field[0]:
+            return True
+        return False
+
 
 def start_game():
     matrix = [[0] * 7 for _ in range(6)]
@@ -168,6 +173,18 @@ def play(matrix, players):
             print(f"The winner is player {have_winner[1]}\n")
             restart = input("type \"r\" to restart the game: ").lower()
 
+            if restart == "r":
+                start_game()
+
+            else:
+                break
+
+        draw = game.end_game_draw()
+
+        if draw:
+            print("The game is draw!")
+
+            restart = input("type \"r\" to restart the game: ").lower()
             if restart == "r":
                 start_game()
 
