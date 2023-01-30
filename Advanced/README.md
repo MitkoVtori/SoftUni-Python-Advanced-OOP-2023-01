@@ -31,7 +31,7 @@
 | -------- |
 | <a href="6.Workshop">Workshop</a> |
 | -------- |
-| <a href="6.Workshop/Workshop - Lab"Workshop |
+| <a href="6.Workshop/Workshop - Lab">Workshop</a> |
 | Exercise: Workshop |
 | ------- |
 | Modules |
