@@ -34,9 +34,9 @@
 | <a href="6.Workshop/Workshop - Lab">Workshop</a> |
 | <a href="6.Workshop/Workshop - Exercise">Exercise: Workshop</a> |
 | ------- |
-| Modules |
+| <a href="7.Modules">Modules</a> |
 | ------- |
-| Modules |
+| <a href="7.Modules/Modules - Lab">Modules</a> |
 | Exercise: Modules |
 | ----- |
 | Exams |
