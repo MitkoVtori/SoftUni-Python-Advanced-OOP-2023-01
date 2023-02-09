@@ -1,0 +1,3 @@
+{"username": "Goshko", "password": "Dimitrov", "first_name": "gosheto@gmail.bg", "last_name": "Gosheto123", "products": [1, 1, 2, 3, 2, 1, 2, 1, 3]}
+{"username": "Mitko", "password": "Mitkov", "first_name": "mitko@gmail.abv", "last_name": "somepassword123", "products": []}
+{"username": "Mitev", "password": "Mitev1", "first_name": "Mitko", "last_name": "Mitkov", "products": []}
