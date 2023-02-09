@@ -37,7 +37,7 @@
 | <a href="7.Modules">Modules</a> |
 | ------- |
 | <a href="7.Modules/Modules - Lab">Modules</a> |
-| Exercise: Modules |
+| <a href="7.Modules/Modules - Exercise">Exercise: Modules</a> |
 | ----- |
 | Exams |
 | ----- |
