@@ -41,5 +41,5 @@
 | ----- |
 | Exams |
 | ----- |
-| Exam Preparation |
+| <a href="Exam Preparation">Exam Preparation</a> |
 | Regular Exam |
