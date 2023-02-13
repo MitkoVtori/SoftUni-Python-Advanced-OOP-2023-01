@@ -77,7 +77,7 @@ racer, top_tunnel, bottom_tunnel, matrix = get_field(matrix_size)
 finished, kilometers = race(matrix, top_tunnel, bottom_tunnel)
 
 if finished:
-    print(f"Racing car {racer} finished stage!")
+    print(f"Racing car {racer} finished the stage!")
 
 else:
     print(f"Racing car {racer} DNF.")
