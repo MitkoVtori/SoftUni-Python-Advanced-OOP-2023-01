@@ -8,7 +8,7 @@ Course Exercise Lecturer - **[Diyan Kalaydzhiev](https://github.com/DiyanKalaydz
 | Python Advanced | Python OOP |
 | --------------- | ---------- |
 | <a href="Advanced">Advanced</a> | <a href="OOP">Object Oriented Programming</a> |
-| <a href="Advanced/1.Stacks, Queues, Tuples and Sets">Stacks, Queues, Tuples and Sets</a> | First Steps in OOP |
+| <a href="Advanced/1.Stacks, Queues, Tuples and Sets">Stacks, Queues, Tuples and Sets</a> | <a href="OOP/1.First Steps in OOP">First Steps in OOP</a> |
 | <a href="Advanced/2.Multidimensional Lists">Multidimensional Lists (AKA matrix)</a> | Classes and Objects |
 | <a href="Advanced/3.Functions Advanced">Functions Advanced</a> | Inheritance |
 | <a href="Advanced/4.Error Handling">Error Handling</a> | Encapsulation |
