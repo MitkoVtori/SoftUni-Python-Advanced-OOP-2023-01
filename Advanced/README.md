@@ -42,4 +42,4 @@
 | Exams |
 | ----- |
 | <a href="Exam Preparation">Exam Preparation</a> |
-| Regular Exam |
+| <a href="Regular Exam">Regular Exam</a> |
