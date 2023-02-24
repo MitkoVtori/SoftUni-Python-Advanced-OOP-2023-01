@@ -5,6 +5,11 @@ Course Lecturer - **[Mario Zahariev](https://github.com/zahariev-webbersof)**
 <br>
 Course Exercise Lecturer - **[Diyan Kalaydzhiev](https://github.com/DiyanKalaydzhiev23)**
 
+<!-- <p float="left"> -->
+<img width="250" src="https://user-images.githubusercontent.com/112943652/221198735-55e4de81-cd84-4e13-b77d-505d7eb1ba03.png">
+<!-- <img width="250" src="https://user-images.githubusercontent.com/112943652/221198735-55e4de81-cd84-4e13-b77d-505d7eb1ba03.png"> -->
+<!-- </p> -->
+
 | Python Advanced | Python OOP |
 | --------------- | ---------- |
 | <a href="Advanced">Advanced</a> | <a href="OOP">Object Oriented Programming</a> |
