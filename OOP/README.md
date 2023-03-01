@@ -8,3 +8,4 @@
 | <a href="2.Classes and Objects">Classes and Objects</a> |
 | ------------------ |
 | <a href="2.Classes and Objects/Classes and Objects - Lab">Classes and Objects</a> |
+| <a href="2.Classes and Objects/Classes and Objects - Exercise">Exercise: Classes and Objects</a> |
