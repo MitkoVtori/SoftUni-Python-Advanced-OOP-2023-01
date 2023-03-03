@@ -13,3 +13,8 @@
 | <a href="3.Inheritance">Inheritance</a> |
 | --------------- |
 | <a href="3.Inheritance/Inheritance - Lab">Inheritance</a> |
+| <a href="3.Inheritance/Inheritance - Exercise">Exercise: Inheritance</a> |
+| -------------------- |
+| <a href="4.Encapsulation">Encapsulation</a> |
+| ------------------ |
+| <a href="4.Encapsulation/Encapsulation - Lab">Encapsulation</a> |
