@@ -18,3 +18,4 @@
 | <a href="4.Encapsulation">Encapsulation</a> |
 | ------------------ |
 | <a href="4.Encapsulation/Encapsulation - Lab">Encapsulation</a> |
+| <a href="4.Encapsulation/Encapsulation - Exercise">Exercise: Encapsulation</a> |
