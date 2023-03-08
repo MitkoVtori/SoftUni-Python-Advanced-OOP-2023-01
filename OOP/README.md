@@ -19,3 +19,7 @@
 | ------------------ |
 | <a href="4.Encapsulation/Encapsulation - Lab">Encapsulation</a> |
 | <a href="4.Encapsulation/Encapsulation - Exercise">Exercise: Encapsulation</a> |
+| ------------------- |
+| <a href="5.Static and Class Methods">Static and Class Methods</a> |
+| -------------------------- |
+| <a href="5.Static and Class Methods/Static and Class Methods - Lab">Static and Class Methods</a> |
