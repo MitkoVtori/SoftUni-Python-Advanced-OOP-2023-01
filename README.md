@@ -17,7 +17,7 @@ Course Exercise Lecturer - **[Diyan Kalaydzhiev](https://github.com/DiyanKalaydz
 | <a href="Advanced/2.Multidimensional Lists">Multidimensional Lists (AKA matrix)</a> | <a href="OOP/2.Classes and Objects">Classes and Objects</a> |
 | <a href="Advanced/3.Functions Advanced">Functions Advanced</a> | <a href="OOP/3.Inheritance">Inheritance</a> |
 | <a href="Advanced/4.Error Handling">Error Handling</a> | <a href="OOP/4.Encapsulation">Encapsulation</a> |
-| <a href="Advanced/5.File Handling">File Handling</a>  | Static and Class Methods |
+| <a href="Advanced/5.File Handling">File Handling</a>  | <a href="OOP/5.Static and Class Methods">Static and Class Methods</a> |
 | <a href="Advanced/6.Workshop">Workshop</a> | Polymorphism and Abstraction |
 | <a href="Advanced/7.Modules">Modules</a> | SOLID |
 | <a href="Advanced/Exam Preparation">Exam Preparation</a> | Iterators and Generators |
