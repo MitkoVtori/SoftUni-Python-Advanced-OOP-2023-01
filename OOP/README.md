@@ -23,3 +23,8 @@
 | <a href="5.Static and Class Methods">Static and Class Methods</a> |
 | -------------------------- |
 | <a href="5.Static and Class Methods/Static and Class Methods - Lab">Static and Class Methods</a> |
+| <a href="5.Static and Class Methods/Static and Class Methods - Exercise">Exercise: Static and Class Methods</a> |
+| ------------------------ |
+| <a href="6.Polymorphism and Abstraction">Polymorphism and Abstraction</a> |
+| ------------------- |
+| <a href="6.Polymorphism and Abstraction/Polymorphism and Abstraction - Lab">Polymorphism and Abstraction</a> |
