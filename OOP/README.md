@@ -28,3 +28,8 @@
 | <a href="6.Polymorphism and Abstraction">Polymorphism and Abstraction</a> |
 | ------------------- |
 | <a href="6.Polymorphism and Abstraction/Polymorphism and Abstraction - Lab">Polymorphism and Abstraction</a> |
+| <a href="6.Polymorphism and Abstraction/Polymorphism and Abstraction - Exercise">Exercise: Polymorphism and Abstraction</a> |
+| ------------------------- |
+| <a href="7.SOLID">SOLID</a> |
+| --------- |
+| <a href="7.SOLID/SOLID - Lab">SOLID</a> |
