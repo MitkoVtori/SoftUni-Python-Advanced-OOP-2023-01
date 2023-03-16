@@ -33,3 +33,4 @@
 | <a href="7.SOLID">SOLID</a> |
 | --------- |
 | <a href="7.SOLID/SOLID - Lab">SOLID</a> |
+| <a href="7.SOLID/SOLID - Exercise">Exercise: SOLID</a> |
