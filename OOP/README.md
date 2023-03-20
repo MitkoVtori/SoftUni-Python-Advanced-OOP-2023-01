@@ -34,3 +34,7 @@
 | --------- |
 | <a href="7.SOLID/SOLID - Lab">SOLID</a> |
 | <a href="7.SOLID/SOLID - Exercise">Exercise: SOLID</a> |
+| -------- |
+| <a href="8.Iterators and Generators">Iterators and Generators</a> |
+| ------------------ |
+| <a href="8.Iterators and Generators/Iterators and Generators - Lab">Iterators and Generators</a>
