@@ -37,4 +37,5 @@
 | -------- |
 | <a href="8.Iterators and Generators">Iterators and Generators</a> |
 | ------------------ |
-| <a href="8.Iterators and Generators/Iterators and Generators - Lab">Iterators and Generators</a>
+| <a href="8.Iterators and Generators/Iterators and Generators - Lab">Iterators and Generators</a> |
+| <a href="8.Iterators and Generators/Iterators and Generators - Exercise">Exercise: Iterators and Generators</a> |
