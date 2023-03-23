@@ -21,7 +21,7 @@ Course Exercise Lecturer - **[Diyan Kalaydzhiev](https://github.com/DiyanKalaydz
 | <a href="Advanced/6.Workshop">Workshop</a> | <a href="OOP/6.Polymorphism and Abstraction">Polymorphism and Abstraction</a> |
 | <a href="Advanced/7.Modules">Modules</a> | <a href="OOP/7.SOLID">SOLID</a> |
 | <a href="Advanced/Exam Preparation">Exam Preparation</a> | <a href="OOP/8.Iterators and Generators">Iterators and Generators</a> |
-| <a href="Advanced/Regular Exam">Regular Exam</a> | Decorators |
+| <a href="Advanced/Regular Exam">Regular Exam</a> | <a href="OOP/9.Decorators">Decorators</a> |
 |  | Testing |
 |  | Design Patterns |
 |  | Exam Preparation |
