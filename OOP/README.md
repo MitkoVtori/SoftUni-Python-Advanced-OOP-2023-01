@@ -39,3 +39,7 @@
 | ------------------ |
 | <a href="8.Iterators and Generators/Iterators and Generators - Lab">Iterators and Generators</a> |
 | <a href="8.Iterators and Generators/Iterators and Generators - Exercise">Exercise: Iterators and Generators</a> |
+| ------------------------------ |
+| <a href="9.Decorators">Decorators</a> |
+| ----------------- |
+| <a href="9.Decorators/Decorators - Lab">Decorators</a> |
