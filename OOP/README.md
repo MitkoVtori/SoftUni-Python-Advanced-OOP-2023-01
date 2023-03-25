@@ -44,3 +44,7 @@
 | ----------------- |
 | <a href="9.Decorators/Decorators - Lab">Decorators</a> |
 | <a href="9.Decorators/Decorators - Exercise">Exercise: Decorators</a> |
+| ----------------------- |
+| <a href="A.Testing">Testing</a> |
+| -------------- |
+| <a href="A.Testing/Testing - Lab">Testing</a> |
