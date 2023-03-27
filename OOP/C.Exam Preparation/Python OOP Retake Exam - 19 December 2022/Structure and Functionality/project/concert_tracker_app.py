@@ -42,7 +42,7 @@ class ConcertTrackerApp:
 
     def create_concert(self, genre: str, audience: int, ticket_price: float, expenses: float, place: str):
         if place in [x.place for x in self.concerts]:
-            raise Exception(f"{place} is already registered for {[x.name for x in self.concerts if x.place == place][0]} concert!")
+            raise Exception(f"{place} is already registered for {[x.genre for x in self.concerts if x.place == place][0]} concert!")
 
         concert = Concert(genre, audience, ticket_price, expenses, place)
         self.concerts.append(concert)
