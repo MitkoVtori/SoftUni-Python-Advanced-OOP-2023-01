@@ -48,3 +48,5 @@
 | <a href="A.Testing">Testing</a> |
 | -------------- |
 | <a href="A.Testing/Testing - Lab">Testing</a> |
+| <a href="A.Testing/Testing - Exercise">Exercise: Testing</a> |
+
