@@ -49,7 +49,8 @@
 | -------------- |
 | <a href="A.Testing/Testing - Lab">Testing</a> |
 | <a href="A.Testing/Testing - Exercise">Exercise: Testing</a> |
-| -------------------------- |
+| ---------------- |
+| ---------------- |
 | <a href="B.Design Patterns">Design Patterns</a> |
 | ---------------- |
 | ---------------- |
