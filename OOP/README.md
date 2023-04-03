@@ -49,4 +49,11 @@
 | -------------- |
 | <a href="A.Testing/Testing - Lab">Testing</a> |
 | <a href="A.Testing/Testing - Exercise">Exercise: Testing</a> |
-
+| -------------------------- |
+| <a href="B.Design Patterns">Design Patterns</a> |
+| ---------------- |
+| ---------------- |
+| <a href="C.Exam Preparation">Exam Preparation</a> |
+| ------------------------- |
+| <a href="C.Exam Preparation/Python OOP Exam - 10 December 2022">Python OOP Exam - 10 December 2022</a>
+| <a href="C.Exam Preparation/Python OOP Retake Exam - 19 December 2022">Python OOP Retake Exam - 19 December 2022</a>
