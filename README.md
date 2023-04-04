@@ -25,5 +25,5 @@ Course Exercise Lecturer - **[Diyan Kalaydzhiev](https://github.com/DiyanKalaydz
 |  | <a href="OOP/A.Testing">Testing</a> |
 |  | <a href="OOP/B.Design Patterns">Design Patterns</a> |
 |  | <a href="OOP/C.Exam Preparation">Exam Preparation</a> |
-|  | Workshop |
+|  | <a href="OOP/D.Workshop">Workshop</a> |
 |  | Regular Exam |
