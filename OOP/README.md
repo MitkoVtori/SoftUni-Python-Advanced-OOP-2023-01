@@ -58,6 +58,7 @@
 | ------------------------- |
 | <a href="C.Exam Preparation/Python OOP Exam - 10 December 2022">Python OOP Exam - 10 December 2022</a> |
 | <a href="C.Exam Preparation/Python OOP Retake Exam - 19 December 2022">Python OOP Retake Exam - 19 December 2022</a> |
+| <a href="C.Exam Preparation/Python OOP Retake Exam - 22 August 2022">Python OOP Retake Exam - 22 August 2022</a> |
 | ---------------------------------------- |
 | <a href="D.Workshop">Workshop</a> |
 | ---------------- |
