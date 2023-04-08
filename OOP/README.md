@@ -64,3 +64,8 @@
 | ---------------- |
 | <a href="D.Workshop/hashmap">hashmap</a> |
 | <a href="D.Workshop/inventory">inventory</a> |
+| ---------------------------------- |
+| <a href="E.Regular Exam">Regular Exam</a> |
+| ---------------------- |
+| <a href="E.Regular Exam/Structure and Functionality">Structure and Functionality</a> |
+| <a href="E.Regular Exam/Unit Testing">Unit Testing</a> |
