@@ -5,10 +5,12 @@ Course Lecturer - **[Mario Zahariev](https://github.com/zahariev-webbersof)**
 <br>
 Course Exercise Lecturer - **[Diyan Kalaydzhiev](https://github.com/DiyanKalaydzhiev23)**
 
-<!-- <p float="left"> -->
+<p float="left">
+&nbsp;
 <img width="250" src="https://user-images.githubusercontent.com/112943652/221198735-55e4de81-cd84-4e13-b77d-505d7eb1ba03.png">
-<!-- <img width="250" src="https://user-images.githubusercontent.com/112943652/221198735-55e4de81-cd84-4e13-b77d-505d7eb1ba03.png"> -->
-<!-- </p> -->
+&nbsp;&nbsp;
+<img width="245" src="https://user-images.githubusercontent.com/112943652/231362788-b1b26e4c-e1ec-4b24-96d2-3c00fa32d756.jpeg">
+</p>
 
 | Python Advanced | Python OOP |
 | --------------- | ---------- |
